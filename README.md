@@ -42,6 +42,7 @@ CountDownTimer(long millisInFuture, long countDownInterval)
 
 ``start()`` 开始倒计时
 
-## 项目地址
-代码比较简单,可以下载Dome查看
-[https://github.com/l8064/Countdown](https://github.com/l8064/Countdown)
+## 交个朋友
+欢迎右上角Start/Fork！
+你也可以关注我的博客，和我做朋友。
+[http://lns666.me](http://lns666.me/)
