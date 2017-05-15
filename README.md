@@ -1,7 +1,7 @@
 # Countdown
 Android 发送短信验证码倒计时小栗子
 
-在Android开发中,我们会常常需要使用倒计时,比如在发送短信验证码时的60秒等待,我们可以通过CountDownTimer来简单的实现倒计时的功能.
+在Android开发中，我们会常常需要使用倒计时，比如在发送短信验证码时的60秒等待，我们可以通过CountDownTimer来简单的实现倒计时的功能。
 
 <img src="https://ww4.sinaimg.cn/large/006y8lVagy1fcnz0ihdeej30u00k0dgt.jpg" width="400px"/>
 <img src="https://ww3.sinaimg.cn/large/006y8lVagy1fcnz0eemguj30u00k0q3w.jpg" width="400px"/>
@@ -24,7 +24,7 @@ Android 发送短信验证码倒计时小栗子
      }
   }.start();
 ```
-CountDownTimer每隔1秒就会调用一次onTick()方法, 在倒计时结束时会调用onFinish()方法,如此我们便可以通过它简单实现倒计时功能啦.
+CountDownTimer每隔1秒就会调用一次onTick()方法，在倒计时结束时会调用onFinish()方法，如此我们便可以通过它简单实现倒计时功能啦。
 
 ## 公共构造函数
 CountDownTimer(long millisInFuture, long countDownInterval)
